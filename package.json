@@ -1,0 +1,20 @@
+{
+  "name": "@Accumulative/js-search-and-highlight",
+  "version": "0.0.1",
+  "description": "Gives you highlighted search results, cut out from their origin.",
+  "license": "MIT",
+  "repository": "Accumulative/js-search-and-highlight",
+  "main": "index.js",
+  "scripts": {
+		"test": "ava",
+		"test-watch": "ava --watch"
+	},
+  "keywords": [
+    "js",
+    "search",
+    "highlight"
+  ],
+  "devDependencies": {
+    "ava": "^3.11.0"
+  }
+}
