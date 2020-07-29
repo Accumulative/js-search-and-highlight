@@ -6,15 +6,18 @@
   "repository": "Accumulative/js-search-and-highlight",
   "main": "index.js",
   "scripts": {
-		"test": "ava",
-		"test-watch": "ava --watch"
-	},
+    "test": "ava",
+    "test-watch": "ava --watch"
+  },
   "keywords": [
     "js",
     "search",
     "highlight"
   ],
   "devDependencies": {
-    "ava": "^3.11.0"
+    "ava": "^3.11.0",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
   }
 }
